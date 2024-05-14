@@ -1,7 +1,7 @@
 # instructlab-yaml-generator
 
 ## Overview
-If you are new to YAML, this simple webapp will help you creating your first YAML file for InstructLab. YAML is quite strict when it come to indentation so this just starts you on your YAML journey!
+If you are new to YAML, this simple webapp will help you creating your first YAML file for [InstructLab](https://github.com/instructlab). YAML is notoriously strict when it come to indentation so this just starts you on your YAML journey!
 
 ## Example output
 ```
