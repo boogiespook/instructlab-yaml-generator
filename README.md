@@ -89,3 +89,8 @@ If everything is fine you will see a message like this
 ``` PHP 8.0.30 Development Server (http://0.0.0.0:8080) started ```
 
 You can then open a browser and navigate to [http://localhost:8080](http://localhost:8080) to open the main page.
+
+### Pre-built image
+If you would just like the image, it's available on quay.io:
+
+``` podman pull quay.io/rhn_gps_cjenkins/instructlab-yaml-generator ```
