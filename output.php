@@ -8,7 +8,7 @@
   <!-- Learn More: https://formbold.com -->
   <div class="formbold-form-wrapper">
         <div class="title">
-         YAML Helper
+         InstructLab YAML Generator
     </div>
         <div class="formbold-steps">
             <ul>
