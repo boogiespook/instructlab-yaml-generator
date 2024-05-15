@@ -50,7 +50,7 @@ parse_str($_SERVER["QUERY_STRING"], $data);
                 print "&nbsp;"; 
                 print $data['githubuser'];
                 print "<br>seed_examples:";
-                for($i=1; $i < 4; $i++) {
+                for($i=1; $i < 6; $i++) {
                     $question = $data['q' . $i];
                     $answer = $data['a' . $i];
                 if (!empty($question)) {
