@@ -106,3 +106,7 @@ You can then open a browser and navigate to [http://localhost:8080](http://local
 If you would just like the image, it's available on quay.io:
 
 ``` podman pull quay.io/rhn_gps_cjenkins/instructlab-yaml-generator ```
+
+
+[![Docker Repository on Quay](https://quay.io/repository/rhn_gps_cjenkins/instructlab-yaml-generator/status "Docker Repository on Quay")](https://quay.io/repository/rhn_gps_cjenkins/instructlab-yaml-generator)
+
